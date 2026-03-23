@@ -11,7 +11,8 @@ The sample demonstrates a responsive server-auth multiplayer inventory system in
 - An option to toggle on/off between input-based vs RPC inventory management
 
 ### Predictive Inventory (Input-based)
-<video src="https://github.com/StinkySteak/netick-predictive-inventory/blob/docs/predictive-inventory-input.mp4" controls></video>
+https://github.com/user-attachments/assets/705707c9-3fee-4d30-9bf9-5a2674354813
 
 ### RPC Based Inventory
-<video src="https://github.com/StinkySteak/netick-predictive-inventory/blob/docs/predictive-inventory-rpc.mp4" controls></video>
+https://github.com/user-attachments/assets/58088c31-8cf6-409e-adf9-7073b74c20f6
+
