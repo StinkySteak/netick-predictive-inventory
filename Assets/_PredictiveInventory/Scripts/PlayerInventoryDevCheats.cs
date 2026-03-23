@@ -1,4 +1,5 @@
 using UnityEngine;
+
 namespace StinkySteak.PredictiveInventory
 {
     public class PlayerInventoryDevCheats : MonoBehaviour
