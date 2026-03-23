@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.codewriter.triinspector": "https://github.com/codewriter-packages/Tri-Inspector.git",
     "com.karrar.netick": "https://github.com/NetickNetworking/NetickForUnity.git",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.feature.development": "1.0.1",
