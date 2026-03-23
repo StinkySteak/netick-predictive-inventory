@@ -1,6 +1,8 @@
 # Netick Predictive Inventory Sample
 
-The sample demonstrates a responsive server-auth multiplayer inventory system in Netick Unity3d powered by Client side prediction (CSP) rather than using RPCs
+# Netick Predictive Inventory Sample
+A sample demonstrating a responsive server-authoritative multiplayer inventory 
+system in Unity powered by client-side prediction (CSP) rather than RPCs.
 
 ## Technical Info
 - Unity: 2022.3.62f3
@@ -8,7 +10,7 @@ The sample demonstrates a responsive server-auth multiplayer inventory system in
 - Platforms: PC (Windows)
 
 ## Features
-- An option to toggle on/off between input-based vs RPC inventory management
+- Toggle between input-based (CSP) and RPC inventory management at runtime
 
 ### Predictive Inventory (Input-based)
 https://github.com/user-attachments/assets/705707c9-3fee-4d30-9bf9-5a2674354813
