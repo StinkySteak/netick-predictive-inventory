@@ -22,31 +22,31 @@ namespace StinkySteak.PredictiveInventory
         {
             if (!_playerInventory.IsServer) return;
 
-            int defaultAddAmout = 5;
+            int defaultAddAmount = 5;
 
             if (Input.GetKeyDown(KeyCode.Alpha1))
             {
-                QuickAdd(0, defaultAddAmout);
+                QuickAdd(0, defaultAddAmount);
             }
 
             if (Input.GetKeyDown(KeyCode.Alpha2))
             {
-                QuickAdd(1, defaultAddAmout);
+                QuickAdd(1, defaultAddAmount);
             }
 
             if (Input.GetKeyDown(KeyCode.Alpha3))
             {
-                QuickAdd(2, defaultAddAmout);
+                QuickAdd(2, defaultAddAmount);
             }
 
             if (Input.GetKeyDown(KeyCode.Alpha4))
             {
-                QuickAdd(3, defaultAddAmout);
+                QuickAdd(3, defaultAddAmount);
             }
 
             if (Input.GetKeyDown(KeyCode.Alpha5))
             {
-                QuickAdd(4, defaultAddAmout);
+                QuickAdd(4, defaultAddAmount);
             }
 
             if (Input.GetKeyDown(KeyCode.W))
